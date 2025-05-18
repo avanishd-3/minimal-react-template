@@ -4,6 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## How to Use
 
+- Change project name in package.json
 - Run git init to clean up the history.
 
 Currently, two official plugins are available:
